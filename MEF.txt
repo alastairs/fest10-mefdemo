@@ -1,0 +1,28 @@
+Glenn Block - MEF
+
+* Can help deal with change, and also allow users to extend your app
+* Not just for apps - can use it for frameworks and libraries too
+  * Can allow a framework or library to evolve easily
+  * Can simplify the config experience
+  * Enable third parties to provide additional "value-adds"
+  * Proper composition of features, etc.
+
+* MEF consists of "Parts" - lego blocks of functionality.  Each Part provides a capability, e.g., logging., and adheres to a contract.
+* Each Part imports the stuff it needs and exports the stuff it has (to expose).  Import can bring in multiple copies of something.  Supports Lazy<T>.
+* The application composes - snaps together - the Parts to form the overall functionality.
+
+* Log4Net can be composed through MEF
+
+* Modules 
+  - introduce new capabilities
+  - often introduce new extensibility points
+* Extensions
+  - new implementations of existing capabilities
+  - tend to be fine-grained
+  - E.g., logger app: individual loggers, invoked through the lifecycle of the application
+
+* Instead of shipping all the functionality in V1, just ship the hooks and let other people add the features.
+
+* See MEFDemo code.
+
+* Declaring MEF parts is like starting the engine of a car: gets things ready, but doesn't do anything.
