@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFDemo", "MEFDemo\MEFDemo.csproj", "{03AC3E3F-9F09-4995-A112-EC6DF1FA6A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingLibrary", "LoggingLibrary\LoggingLibrary.csproj", "{56972E40-DA39-4480-8A9F-FB0955D07E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLoggers", "MyLoggers\MyLoggers.csproj", "{DAFAA6AB-BA0A-4531-B81D-86FBE157A0F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AC3E3F-9F09-4995-A112-EC6DF1FA6A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AC3E3F-9F09-4995-A112-EC6DF1FA6A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AC3E3F-9F09-4995-A112-EC6DF1FA6A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AC3E3F-9F09-4995-A112-EC6DF1FA6A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56972E40-DA39-4480-8A9F-FB0955D07E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56972E40-DA39-4480-8A9F-FB0955D07E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56972E40-DA39-4480-8A9F-FB0955D07E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56972E40-DA39-4480-8A9F-FB0955D07E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFAA6AB-BA0A-4531-B81D-86FBE157A0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFAA6AB-BA0A-4531-B81D-86FBE157A0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFAA6AB-BA0A-4531-B81D-86FBE157A0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFAA6AB-BA0A-4531-B81D-86FBE157A0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
