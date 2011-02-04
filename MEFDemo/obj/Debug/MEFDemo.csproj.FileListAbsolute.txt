@@ -1,7 +1,0 @@
-Z:\Code\MEFDemo\MEFDemo\obj\Debug\ResolveAssemblyReference.cache
-Z:\Code\MEFDemo\MEFDemo\bin\Debug\MEFDemo.exe
-Z:\Code\MEFDemo\MEFDemo\bin\Debug\MEFDemo.pdb
-Z:\Code\MEFDemo\MEFDemo\bin\Debug\LoggingLibrary.dll
-Z:\Code\MEFDemo\MEFDemo\bin\Debug\LoggingLibrary.pdb
-Z:\Code\MEFDemo\MEFDemo\obj\Debug\MEFDemo.exe
-Z:\Code\MEFDemo\MEFDemo\obj\Debug\MEFDemo.pdb
