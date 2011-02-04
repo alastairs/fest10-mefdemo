@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+*.suo
+Thumbs.db
+_ReSharper.*/
+_UpgradeReport_Files/
+[Tt]est[Rr]esults/
+*.user
+*.vs10x
